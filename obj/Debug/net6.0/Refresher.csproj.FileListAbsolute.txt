@@ -1,0 +1,15 @@
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\bin\Debug\net6.0\Refresher.exe
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\bin\Debug\net6.0\Refresher.deps.json
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\bin\Debug\net6.0\Refresher.runtimeconfig.json
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\bin\Debug\net6.0\Refresher.dll
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\bin\Debug\net6.0\Refresher.pdb
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.csproj.AssemblyReference.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.AssemblyInfoInputs.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.AssemblyInfo.cs
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.csproj.CoreCompileInputs.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.dll
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\refint\Refresher.dll
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.pdb
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\Refresher.genruntimeconfig.cache
+C:\Users\SHEEVZ\Desktop\School\Quarter 4\Prog 4\Refresher\obj\Debug\net6.0\ref\Refresher.dll
